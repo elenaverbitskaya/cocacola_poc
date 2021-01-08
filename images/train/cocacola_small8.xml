@@ -1,0 +1,50 @@
+<annotation>
+	<folder>for ML</folder>
+	<filename>cocacola_small8.jpg</filename>
+	<path>C:\Users\everbitskaya\Downloads\for ML\cocacola_small8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cocacola_pink_feather</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>44</xmin>
+			<ymin>181</ymin>
+			<xmax>296</xmax>
+			<ymax>635</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cocacola_blue_flowers</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>181</xmin>
+			<ymin>16</ymin>
+			<xmax>661</xmax>
+			<ymax>289</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cocacola_violet_balls</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>285</xmin>
+			<ymin>250</ymin>
+			<xmax>704</xmax>
+			<ymax>673</ymax>
+		</bndbox>
+	</object>
+</annotation>

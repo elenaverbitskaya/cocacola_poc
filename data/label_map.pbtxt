@@ -1,0 +1,47 @@
+item {
+      id: 1
+      name: 'cocacola_violet_balls'
+}
+item {
+     id: 2
+     name: 'cocacola_yellow_dragons'
+}
+item {
+     id: 3
+     name: 'cocacola_blue_flowers'
+}
+item {
+      id: 4
+      name: 'cocacola_green_apples'
+}
+item {
+     id: 5
+     name: 'cocacola_yellow_pattern'
+}
+item {
+     id: 6
+     name: 'cocacola_white_lines'
+}
+
+item {
+      id: 7
+      name: 'cocacola_blue_fish'
+}
+item {
+     id: 8
+     name: 'cocacola_pink_feather'
+}
+item {
+     id: 9
+     name: 'cocacola_pink_violet_feather'
+}
+
+
+
+
+
+
+
+
+
+
